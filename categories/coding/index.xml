@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on 派皮BLOG</title>
+    <link>https://ial0123.github.io/categories/coding/</link>
+    <description>Recent content in Coding on 派皮BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 01 Apr 2022 01:39:47 +0800</lastBuildDate><atom:link href="https://ial0123.github.io/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>派皮的第一篇文章</title>
+      <link>https://ial0123.github.io/blog/test/</link>
+      <pubDate>Fri, 01 Apr 2022 01:39:47 +0800</pubDate>
+      
+      <guid>https://ial0123.github.io/blog/test/</guid>
+      <description>派皮的冒險人生 準備好跟著我一起探索世界了嗎? 六級標題真滴小 我是派皮，來探索
+ 柏勳  有趣  無聊     孟萱   柏勳  好帥   孟萱  好美     Hello</description>
+    </item>
+    
+  </channel>
+</rss>
